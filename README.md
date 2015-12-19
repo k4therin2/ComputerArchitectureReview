@@ -1,11 +1,11 @@
 # ComputerArchitectureReview
 So you want an A in computer architecture? Here are the review notes that got me there in Spring 2015.
 
-#	School:
+### 	School:
 Case Western Reserve University
-#	Class:
+###	Class:
 EECS 314
-#	Instructor:
+###	Instructor:
 Swarup Bhunia
-#	Student:
+###	Student:
 Katherine Cass (krc53)
